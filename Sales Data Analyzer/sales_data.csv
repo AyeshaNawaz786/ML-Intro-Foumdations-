@@ -1,0 +1,9 @@
+product,region,date,quantity,price
+Laptop,North,2024-01-01,5,80000
+Phone,South,2024-01-02,10,50000
+Laptop,North,2024-01-03,7,80000
+Tablet,East,2024-01-04,3,30000
+Phone,South,2024-01-05,12,50000
+Laptop,West,2024-01-06,6,80000
+Tablet,East,2024-01-07,2,30000
+Phone,North,2024-01-08,15,50000
